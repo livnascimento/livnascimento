@@ -1,4 +1,4 @@
-### Opa, tudo dibas? Pode me chamar de Liv
+### Opa, tudo dibas? Pode me chamar de Liv 🌙
 
 - 🌱 Estudando .NET
 - 😄 Pronomes: ela/dela
