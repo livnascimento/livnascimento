@@ -1,6 +1,6 @@
 ### Opa, tudo dibas? Pode me chamar de Liv 🌙
 
-- 🌱 Estudando .NET
+- 🌱 Estudando JavaScript e .NET
 - 😄 Pronomes: ela/dela
 - 📫 Contate-me: livia.nascimento@upe.br
 
