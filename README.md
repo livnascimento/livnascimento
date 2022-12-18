@@ -10,10 +10,7 @@
   </a>
   <a href="http://www.github.com/livnascimento">
     <img width="49%"  src="https://github-readme-streak-stats.herokuapp.com/?user=livnascimento&theme=tokyonight&hide_border=true">
-  </a>
-  
-  ![Snake animation](https://github.com/livnascimento/livnascimento/blob/output/github-contribution-grid-snake.svg)
-  
+  </a>  
   <a href="https://github.com/livnascimento">
    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=livnascimento&layout=compact&theme=tokyonight&hide_border=true&langs_count=16">
   </a> 
