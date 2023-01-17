@@ -1,4 +1,4 @@
-### Opa, tudo dibas? Pode me chamar de Liv 🌙
+### Opa! Pode me chamar de Liv
 
 - 🌱 Atualmente, estou estudando JavaScript e Java
 - 📫 Contate-me: livia.nascimento@upe.br
