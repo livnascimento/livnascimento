@@ -6,7 +6,7 @@
 <div>
   
   <a href="http://www.github.com/livnascimento">
-    <img width="49%"  src="https://github-readme-streak-stats.herokuapp.com/?user=livnascimento&theme=tokyonight&hide_border=true">
+    <img height="180em"  src="https://github-readme-streak-stats.herokuapp.com/?user=livnascimento&theme=tokyonight&hide_border=true">
   </a>  
   <div>
   <a href="https://github.com/mateushenriquedasilva">
