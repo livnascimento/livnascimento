@@ -1,12 +1,12 @@
 ## Oie! Pode me chamar de Liv 🌻
 </br>
-👩‍💻 Meu nome é Lívia, eu tenho 21 anos, sou pernambucana, viciada em cuscuz recheado e sou dev front-end me aventurando no mundo do back-end.
+👩‍💻 Meu nome é Lívia, mas como eu já disse: pode me chamar de Liv. Sou uma pernambucana aficionada por programação. Eu realmente amo combinar tecnologia com criatividade pra criar aplicações úteis e agradáveis. Me sinto genuinamente feliz quando consigo dar vida a uma ideia através do desenvolvimento e é isso que me motiva nessa área.
 </br>
 </br>
-🌱 Atualmente, estou estudando JavaScript com Node e Java com Spring; além de bancos de dados SQL e NoSQL.
+🌱 Atualmente, estou estudando JavaScript com Node na <a href="https://cubos.academy/">Cubos Academy</a> e Java com Spring na <a href="dio.me">DIO</a>; além de bancos de dados SQL e NoSQL em ambos os cursos.
 </br>
 </br>
-📫 Se quiser bater um papo, você pode mandar um e-mail em liviaraianen@gmail.com ou manda uma mensagem no <a href="https://www.linkedin.com/in/liviarnascimento/">Linkedin</a> :)
+📫 Se quiser bater um papo, você pode mandar um <a href="mailto:liviaraianen@gmail.com?body=Olá, Lívia! Vim pelo Github!" target="_blank">e-mail</a> ou manda uma mensagem no <a href="https://www.linkedin.com/in/liviarnascimento/">Linkedin</a> :)
 
 </br>
 </br>
