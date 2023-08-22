@@ -6,7 +6,7 @@
 🌱 Atualmente, estou estudando JavaScript com Node na <a href="https://cubos.academy/">Cubos Academy</a> e Java com Spring na <a href="dio.me">DIO</a>; além de bancos de dados SQL e NoSQL em ambos os cursos.
 </br>
 </br>
-📫 Se quiser bater um papo, você pode mandar um <a href="mailto:liviaraianen@gmail.com?body=Olá, Lívia! Vim pelo Github!" target="_blank">e-mail</a> ou manda uma mensagem no <a href="https://www.linkedin.com/in/liviarnascimento/">Linkedin</a> :)
+📫 Se quiser bater um papo, você pode mandar um <a href="mailto:liviaraianen@gmail.com?body=Olá, Lívia! Vim pelo Github!" target="_blank">e-mail</a> ou manda uma mensagem no <a href="https://www.linkedin.com/in/liviarnascimento/" target="_blank">Linkedin</a> :)
 
 </br>
 </br>
