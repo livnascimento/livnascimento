@@ -1,4 +1,4 @@
-![Olá, meu nome é Lívia!](https://github.com/livnascimento/livnascimento/assets/51425339/15b32126-fb4e-4190-9402-814a5a008d41)
+![Olá, meu nome é Lívia!](./images/header.gif)
 
 ## ℹ Sobre Mim
 
