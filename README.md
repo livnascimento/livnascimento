@@ -44,4 +44,4 @@ Não hesite em entrar em contato se quiser discutir projetos, colaborações ou 
 
 ---
 
-⭐️ Obrigada por visitar meu perfil! Espero ver você por aqui em breve! :) 
+Obrigada por visitar meu perfil! Não esquece de visitar meus projetos favoritos ⏬
