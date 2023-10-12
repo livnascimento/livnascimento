@@ -1,12 +1,15 @@
-# Olá, me chamo Lívia Nascimento! 👋
+![Olá, meu nome é Lívia!](https://github.com/livnascimento/livnascimento/assets/51425339/15b32126-fb4e-4190-9402-814a5a008d41)
 
-## Sobre Mim
+## ℹ Sobre Mim
 
-- 👩‍💻 Desenvolvedora FullStack
-- 📚 Estudante de Engenharia da Computação na [Faculdade Descomplica](https://descomplica.com.br/faculdade/a/)
-- 🎓 Cursando Desenvolvimento de Software com foco em Back-end na [Cubos Academy](https://cubos.academy/)
+- 👩‍💻 Sou desenvolvedora fullstack
+- 👩🏻‍🎓 Estou cursando Engenharia da Computação na [Faculdade Descomplica](https://descomplica.com.br/faculdade/a/)
+- 🎓 Também estudo Desenvolvimento de Software com foco em Back-end na [Cubos Academy](https://cubos.academy/)
+- 🔎 Sou curiosa sobre culinária, sustentabilidade e criatividade
+- 🎮 No meu tempo livre eu gosto de jogar, ler e fazer peças de qualidade duvidosa com porcelana fria
+- 📚 No momento estou lendo Harry Potter e o Cálice de Fogo
 
-## Minhas hard skills
+## 🔧 Minhas hard skills
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -17,7 +20,7 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## Atualmente estou estudando...
+## 🤓 Atualmente estou estudando...
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
@@ -25,14 +28,14 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-## Contato
+## 📫 Contato
 
 Não hesite em entrar em contato se quiser discutir projetos, colaborações ou apenas para trocar ideias.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liviarnascimento)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:liviaraianen@gmail.com)
 
-## Stats
+## 📊 Stats
 
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=livnascimento&theme=dracula&layout=compact" height="180em">
@@ -41,4 +44,4 @@ Não hesite em entrar em contato se quiser discutir projetos, colaborações ou 
 
 ---
 
-⭐️ Obrigada por visitar meu perfil do GitHub! 
+⭐️ Obrigada por visitar meu perfil! Espero ver você por aqui em breve! :) 
