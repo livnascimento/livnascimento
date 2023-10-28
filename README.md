@@ -41,6 +41,7 @@ Não hesite em entrar em contato se quiser discutir projetos, colaborações ou 
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=livnascimento&theme=dracula&layout=compact" height="180em">
     <img src="https://github-readme-stats.vercel.app/api?username=livnascimento&show_icons=true&theme=dracula" height="180em">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=livnascimento&custom_title=Liv's%20github%20activity%20graph&theme=dracula">
 </div>
 
 ---
