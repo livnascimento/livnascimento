@@ -7,7 +7,6 @@
 - 🎓 Também estudo Desenvolvimento de Software com foco em Back-end na [Cubos Academy](https://cubos.academy/)
 - 🔎 Sou curiosa sobre culinária, sustentabilidade e criatividade
 - 🎮 No meu tempo livre eu gosto de jogar, ler e fazer peças de qualidade duvidosa com porcelana fria
-- 📚 No momento estou lendo Harry Potter e o Cálice de Fogo
 
 ## 🔧 Minhas hard skills
 
