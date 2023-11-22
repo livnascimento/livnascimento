@@ -5,7 +5,7 @@
 - 👩‍💻 Sou desenvolvedora fullstack
 - 👩🏻‍🎓 Estou cursando Engenharia da Computação na [Faculdade Descomplica](https://descomplica.com.br/faculdade/a/)
 - 🎓 Também estudo Desenvolvimento de Software com foco em Back-end na [Cubos Academy](https://cubos.academy/)
-- 🔎 Sou curiosa sobre culinária, sustentabilidade e criatividade
+- 🔎 Sou curiosa sobre tecnologia sustentável e soluções criativas
 - 🎮 No meu tempo livre eu gosto de jogar, ler e fazer peças de qualidade duvidosa com porcelana fria
 
 ## 🔧 Minhas hard skills
