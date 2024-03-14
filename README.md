@@ -4,7 +4,6 @@
 
 - 👩‍💻 Sou desenvolvedora fullstack
 - 👩🏻‍🎓 Estou cursando Engenharia da Computação na [Faculdade Descomplica](https://descomplica.com.br/faculdade/a/)
-- 🎓 Também estudo .NET na formação .NET Developer da [DIO](https://dio.me/)
 - 🔎 Sou curiosa sobre tecnologia sustentável e soluções criativas
 - 🎮 No meu tempo livre eu gosto de jogar, ler e fazer peças de qualidade duvidosa com porcelana fria
 
