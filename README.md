@@ -1,6 +1,6 @@
 # Hi, I'm Lívia 🤓
 
-I'm a software developer focused on building multiplatform applications. Most of my experience is with Java and the Spring ecosystem. I'm a
+I'm a software developer full-stack. 
 
 If you are curious about how and what I code, feel free to checkout my pinned projects below or take a look at my [![resume](https://img.shields.io/badge/resume-7952B3)](./resume_liviarnascimento.pdf). Although I consider myself a technology agnostic – if necessary, I'll find a way to code even in Assembly –, my long-term career goal is to become a Java development specialist.
 
